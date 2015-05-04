@@ -42,4 +42,4 @@ var normalize = require('geojson-normalize');
 
 module.exports = function (geojson) {
   return normalize(geojson);
-}
+};
