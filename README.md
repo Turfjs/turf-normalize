@@ -14,7 +14,7 @@ Normalizes any GeoJSON to a FeatureCollection using [geojson-normalize](https://
 
 | parameter | type    | description       |
 | --------- | ------- | ----------------- |
-| `input`   | GeoJSON | any valid GeoJSON |
+| `input`   | geojson | any valid GeoJSON |
 
 
 ### Example
@@ -53,7 +53,7 @@ var normalized = turf.normalize(geometry)
 ```
 
 
-**Returns** `FeatureCollection`, a simplified feature
+**Returns** `normalized`, a normalized FeatureCollection
 
 ## Installation
 

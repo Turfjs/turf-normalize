@@ -5,8 +5,8 @@ normalize = require('geojson-normalize');
  *
  * @module turf/normalize
  * @category misc
- * @param {GeoJSON} input any valid GeoJSON
- * @return {FeatureCollection} a simplified feature
+ * @param {geojson} input any valid {@link GeoJSON}
+ * @return {normalized} a normalized {@link FeatureCollection}
  * @example
  * var geometry = {
  *     "type": "Polygon",
