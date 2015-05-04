@@ -1,4 +1,4 @@
-normalize = require('geojson-normalize');
+var normalize = require('geojson-normalize');
 
 /**
  * Normalizes any {@link GeoJSON} to a {@link FeatureCollection} using [geojson-normalize](https://github.com/mapbox/geojson-normalize).
