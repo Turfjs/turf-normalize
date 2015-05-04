@@ -2,12 +2,12 @@
 
 [![build status](https://secure.travis-ci.org/Turfjs/turf-normalize.png)](http://travis-ci.org/Turfjs/turf-normalize)
 
-Normalizes features to a GeoJSON FeatureCollection
+[Turf](http://turfjs.org/) normalize module
 
 
 ### `turf.normalize(input)`
 
-Normalizes any {GeoJSON} to a {FeatureCollection} using [geojson-normalize](https://github.com/mapbox/geojson-normalize).
+Normalizes any GeoJSON to a FeatureCollection using [geojson-normalize](https://github.com/mapbox/geojson-normalize).
 
 
 ### Parameters

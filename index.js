@@ -1,7 +1,7 @@
 normalize = require('geojson-normalize');
 
 /**
- * Normalizes any {GeoJSON} to a {FeatureCollection} using [geojson-normalize](https://github.com/mapbox/geojson-normalize).
+ * Normalizes any {@link GeoJSON} to a {@link FeatureCollection} using [geojson-normalize](https://github.com/mapbox/geojson-normalize).
  *
  * @module turf/normalize
  * @category misc
